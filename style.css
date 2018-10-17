@@ -2,43 +2,34 @@
 /* 1366×768 screens just surpassed 1024×768 as the most popular screen resolution used by the visitors to  */
 
 
-/* .container {
-/* background-color: aquamarine; */
-/* height: 768px;
-width: 1024px; 
-align-content: stretch; 
-margin: 20px; 
-text-align: center; 
-background-color: blue; 
-} */ 
-
-.full-page {
-background-color: aquamarine;
-align-content: center;  
-width: 1366px; 
-heigth: 768px; 
-
+.container {
+width:1024px; 
+height: 768px;  
+background-color:white; 
 }
 
 .header {
-color: hotpink; 
-text-align: center; 
-font-family: 'Charmonman', cursive;
+width: 1024px;
+height: 200px;
+background-color: aquamarine; 
+color:white;
+align-content: center; 
 font-size: 75px; 
-align-content: center; 
+text-align: center; 
+line-height: 200px; 
+font-family: 'Charmonman', cursive;
 }
 
 
-.button-baby {
-
-color: green; 
-background-color: hotpink; 
+.buttons-baby{
+width: 1024px;
+height: 100px;
 align-content: center; 
-width: 1366px; 
-height: 50px; 
+background-color: pink; 
+
 }
 
-#buttons-view {
-color: orange; 
+.buttons-view {
+text-align: center; 
 
 }
