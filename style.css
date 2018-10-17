@@ -24,7 +24,7 @@ font-family: 'Charmonman', cursive;
 .buttons-baby{
 width: 1024px;
 height: 350px;
-padding: 20px; 
+padding: 15px; 
 align-content: center; 
 background-color: pink; 
 
@@ -32,6 +32,6 @@ background-color: pink;
 
 .buttons-view {
 text-align: center; 
-margin: 10px; 
+/* margin: 10px;  */
 
 }
