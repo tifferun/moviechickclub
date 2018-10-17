@@ -1,0 +1,30 @@
+/* 1024 px	768 px */
+/* 1366×768 screens just surpassed 1024×768 as the most popular screen resolution used by the visitors to  */
+
+
+.container {
+background-color: aquamarine;
+height: 768px;
+width: 1366px; 
+align-content: stretch; 
+margin: 20px; 
+}
+
+.header {
+color: hotpink; 
+text-align: center; 
+font-family: 'Charmonman', cursive;
+font-size: 35px; 
+align-content: center; 
+margin: 15px; 
+
+}
+
+
+#buttons-view {
+
+color: green; 
+background-color: hotpink; 
+align-content: center; 
+}
+
