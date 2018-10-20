@@ -45,13 +45,22 @@ text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
+    border-radius: 8px;
+    font-family: 'Cabin', sans-serif;
+    }
+
+    .movie-btn:hover {
+        background-color: aquamarine; /* Green */
+        color: white;
     }
 
 #movies-view {
-color: black; 
-background-color:aquamarine; 
+color: hotpink; 
+background-color: white; 
 align-content: center; 
 width: 100%;
+padding: 20px; 
 text-align: center; 
-
+font-family: 'Anton', sans-serif;
+font-family: 'Cabin', sans-serif;
 }
